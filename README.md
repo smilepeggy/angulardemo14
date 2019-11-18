@@ -1,3 +1,9 @@
+# Practice Angular 
+
+<img src="https://github.com/smilepeggy/angulardemo14/blob/master/Screen%20Shot%202019-11-18%20at%2019.54.44.png" width=250/><img src="https://github.com/smilepeggy/angulardemo14/blob/master/Screen%20Shot%202019-11-18%20at%2019.55.08.png" width=240/>
+
+
+
 # Angulardemo14
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
@@ -25,3 +31,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+learn it from https://www.itying.com/
